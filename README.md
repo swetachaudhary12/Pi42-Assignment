@@ -20,7 +20,7 @@ npm run dev
 
 
 Deployment
-The application is deployed on Netlify and can be accessed at: TBA
+The application is deployed on Netlify and can be accessed at: [Click to open](https://pi42sweta.vercel.app/)
 
 Contact information:
 Sweta Kumari
